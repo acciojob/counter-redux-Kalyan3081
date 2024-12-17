@@ -9,7 +9,7 @@ const Incrementbutton = () => {
 
     return (
         <>
-            <button onClick={() => dispatch(increment())}>Increment</button>
+            <button onClick={() => dispatch(increment())}>increment</button>
         </>
     )
 }
