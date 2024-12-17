@@ -7,7 +7,7 @@ const Decrementbutton = () => {
 
     return (
         <>
-            <button onClick={() => dispatch(decrement())}>Decrement</button>
+            <button onClick={() => dispatch(decrement())}>decrement</button>
         </>
     )
 }
