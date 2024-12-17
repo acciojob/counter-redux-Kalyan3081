@@ -1,8 +1,7 @@
 import React from "react";
 import { Provider } from 'react-redux';
 import Counterdisplay from './counterDisplay';
-import Store from './Counter/store';
-import './../styles/App.css';
+import Store from './store';
 
 const App = () => {
   return (
