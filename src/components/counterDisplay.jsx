@@ -8,7 +8,7 @@ const Counterdisplay = () => {
 
     return (
         <>
-            <h1>Count is {count}</h1>
+            <h1>{count}</h1>
             <Incrementbutton />
             <Decrementbutton />
         </>
